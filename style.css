@@ -75,6 +75,7 @@ body{
     flex-direction: column;
     align-items: baseline;
     justify-content: space-between;
+    margin-top: 20px;
 }
 
 
@@ -107,4 +108,19 @@ label{
 
 .faq-toggle:checked + .faq-question + .faq-answer{
     display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .container-besar{
+        background-image: url('./assets/images/background-pattern-mobile.svg');
+    }
+    .container-isi{
+        width: 350px;
+        padding: 10px;
+        margin-top: 20px;
+    }
+    .faq-item{
+        font-size: small;
+        margin-top: 20px;
+    }
 }
