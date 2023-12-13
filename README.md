@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/cocotiwak/faq.akordion)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [frontend.danoe.my.id](https://frontend.danoe.my.id/faq.accordion/)
 
 ## My process
 
